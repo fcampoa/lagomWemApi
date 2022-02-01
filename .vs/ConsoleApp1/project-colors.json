@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a2a359a-4783-4b38-9fcd-5a793fa26956": {
+      "ProjectGuid": "5a2a359a-4783-4b38-9fcd-5a793fa26956",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "14432906-4082-4107-8371-dd796f59aa3f": {
+      "ProjectGuid": "14432906-4082-4107-8371-dd796f59aa3f",
+      "DisplayName": "LagomExcelApi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1.csproj", "{5A2A359A-4783-4B38-9FCD-5A793FA26956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LagomExcelApi", "..\LagomExcelApi\LagomExcelApi.csproj", "{14432906-4082-4107-8371-DD796F59AA3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A2A359A-4783-4B38-9FCD-5A793FA26956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2A359A-4783-4B38-9FCD-5A793FA26956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2A359A-4783-4B38-9FCD-5A793FA26956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2A359A-4783-4B38-9FCD-5A793FA26956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14432906-4082-4107-8371-DD796F59AA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14432906-4082-4107-8371-DD796F59AA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14432906-4082-4107-8371-DD796F59AA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14432906-4082-4107-8371-DD796F59AA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9C41E26-BFA5-4BC2-9A8B-55D529E5D2E3}
+	EndGlobalSection
+EndGlobal
